@@ -1,0 +1,29 @@
+Term,Definition
+Data communication system,Electronic transfer of data between locations supporting efficiency and collaboration.
+Sender/receiver devices,Endpoints that generate/consume data.
+Modem,Device that connects a user to the Internet (dial-up/DSL/cable).
+Communication channel,The path over which data is transmitted.
+Bandwidth,Amount of data transferable per second between two points.
+Attenuation,Loss of signal power over distance.
+Conducted media,Physical cabling used to transmit signals.
+Radiated media,Wireless transmission through air or water via antennas.
+Broadband,Transmits multiple data signals simultaneously.
+Narrowband,Voice-grade transmission with limited bandwidth.
+Protocol,Agreed rules governing data communication.
+Centralized processing,All processing at one central computer.
+Decentralized processing,Each unit has its own computer; responsive but higher cost.
+Distributed processing,Processing spread across multiple systems; more flexible but complex.
+OSI model,Seven-layer model standardizing network communication.
+LAN,Local Area Network within limited area like an office.
+WAN,Wide Area Network spanning cities/countries.
+MAN,Metropolitan Area Network across a city.
+NIC,Hardware enabling a device to connect to a network.
+Ethernet,Standard LAN communication protocol.
+Star topology,Nodes connect to central host; simple but single point of failure.
+Ring topology,Nodes in a circle transmitting in one direction.
+Bus topology,All nodes share one cable segment.
+Hierarchical topology,Multi-level design; failure limited to sub-branches.
+Mesh topology,Every node connects to every other; reliable but costly.
+TCP/IP,"Protocol suite: TCP for transport, IP for addressing/routing."
+Router,Device forwarding packets and controlling traffic.
+Client/server model,Client software requests services from a remote server.

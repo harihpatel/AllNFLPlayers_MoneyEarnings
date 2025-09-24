@@ -1,0 +1,39 @@
+Term,Definition
+Two-tier architecture,Client communicates directly with server.
+N-tier architecture,Middle tier(s) host application logic; balances load.
+Wireless network,Network using radio instead of wires.
+Mobile network,Cellular network using radio frequencies with base stations.
+Wi-Fi,Broadband wireless networking technology.
+WiMAX,Wireless broadband designed for MANs.
+Bluetooth,Short-range wireless creating personal area networks.
+Roaming,Using a mobile phone outside carrier’s local area.
+TDMA,Cellular technology dividing channels by time slots.
+CDMA,Cellular tech spreading signals over code sequences.
+5G,Latest cellular generation with high speeds.
+SSID,Network name identifying a Wi-Fi network.
+WEP,Early Wi-Fi encryption method.
+EAP,Extensible Authentication Protocol for network authentication.
+WPA/WPA2,Improved Wi-Fi security standards.
+Convergence,"Integration of voice, video, and data for decision-making."
+Internet,Worldwide collection of interconnected networks; began as ARPANET.
+Internet backbone,Foundation network linked with fiber-optic cables.
+NAP,Network Access Point where backbones interconnect.
+World Wide Web,GUI-based hypermedia system with web servers.
+Hypermedia,Documents with embedded references (links).
+Hypertext,Embedded references (links) within hypermedia.
+Domain name,Human-readable identifier of an Internet address.
+IP address,Numeric address assigned to networks/hosts.
+DNS,System translating domain names to IP addresses.
+URL,Uniform Resource Locator identifying a web page.
+TLD,"Top-level domain; URL suffix indicating category (.edu, .com)."
+Browser,"Navigational tool with history, bookmarks, navigation."
+Search engine,"System that crawls, indexes, returns results."
+Blog,Online journal/newsletter for public reading.
+Wiki,Website where users can add/delete/modify content.
+Social networking,Online services connecting users for sharing/interactions.
+RSS feed,XML-based method for distributing content.
+Podcast,Downloadable/streamable audio file with a URL.
+IoE,"Internet of Everything: people, processes, data, things."
+IoT,Internet of Things: physical objects connected to Internet.
+IoM,Internet of Me: personalized Internet for individuals.
+IIoT,Industrial Internet of Things for manufacturing/industry.

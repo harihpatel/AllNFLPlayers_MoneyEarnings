@@ -1,0 +1,36 @@
+Term,Definition
+Cybercrime,Criminal activities using IT that impose massive economic costs.
+Spyware,Software that gathers user information online; may change settings.
+Adware,Spyware variant that collects info to choose ads shown.
+Phishing,Fraudulent emails masquerading as legitimate sources to steal data.
+Spear phishing,Targeted phishing attack for a person/group.
+Pharming,Hijacking a legitimate site via DNS changes to steal information.
+Baiting,"Lures victims with promises (e.g., free software) to steal data."
+Quid pro quo,Attacker offers a service/prize in exchange for info.
+SMiShing,SMS-based phishing attack on mobile devices.
+Vishing,Voice/VoIP phishing to elicit confidential info.
+Keystroke logger,Software/hardware that records keystrokes.
+Sniffing,Capturing and recording network traffic.
+Spoofing,Posing as an authorized user/program to gain access.
+Computer fraud,Unauthorized use of computer data for personal gain.
+Virus,Self-propagating code triggered by time/event; attaches to files.
+Worm,Independent program that spreads without a host program.
+Trojan program,Malicious code hidden in legitimate software; doesn’t self-replicate.
+Logic bomb,Trojan variant triggered by time/event.
+Backdoor,Hidden routine bypassing normal security.
+Blended threat,Combines malware with vulnerabilities.
+Rootkit,"Tools enabling concealed, unauthorized access."
+Denial-of-service (DoS),Floods a service with requests to block legitimate access.
+Distributed DoS (DDoS),Many systems coordinate to flood a target.
+Botnet,Network of compromised devices controlled remotely.
+TDoS,Telephony DoS attack that floods phone systems.
+Social engineering,Manipulating people to divulge confidential info.
+Cryptojacking,Secretly using a computer to mine cryptocurrency.
+CIA triad,"Confidentiality, Integrity, Availability as core security objectives."
+McCumber cube,Framework defining nine information-security dimensions.
+Firewall,Hardware/software controlling traffic between networks.
+Intrusion detection system (IDS),"Detects attacks, traces patterns, and can terminate connections."
+VPN,Encrypted tunnel over the Internet for secure data transmission.
+Encryption,Transforming plaintext into ciphertext using keys.
+Public key infrastructure (PKI),Uses public/private keys for secure data exchange.
+Zero trust security,"Never trust, always verify: MFA, least privilege, segmentation."

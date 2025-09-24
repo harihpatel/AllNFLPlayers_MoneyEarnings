@@ -1,0 +1,49 @@
+Term,Definition
+Computer,"A machine that accepts input data, processes it via stored instructions, and outputs information."
+Program (source code),Step-by-step instructions written in a language a computer can understand.
+Object code,Binary (0s/1s) translation of source code that the computer executes.
+Central processing unit (CPU),The 'heart' of a computer that executes instructions.
+Arithmetic logic unit (ALU),Performs arithmetic and comparison (relational) operations.
+Control unit,Directs operations of the computer (tells the computer what to do).
+Main (primary) memory,Stores data and instructions needed by the CPU.
+Single processor,One CPU in a single computer.
+Multiprocessor,Two or more CPUs in one computer.
+Bus,Link (parallel/serial) connecting devices inside/outside the computer.
+32-bit processor,Runs 32-bit OS; addresses up to ~4 GB RAM.
+64-bit processor,Can run 32- or 64-bit OS; addresses vastly more memory.
+Disk drive,Peripheral device for writing/reading data.
+CPU case (chassis/tower),Enclosure for computer components.
+Motherboard,"Main circuit board hosting CPU, memory, ports, and expansion slots."
+Millisecond,"1/1,000 of a second."
+Microsecond,"1/1,000,000 of a second."
+Nanosecond,"1/1,000,000,000 of a second."
+Picosecond,"1/1,000,000,000,000 of a second."
+Storage,Saving data in memory.
+Retrieval,Accessing data from memory.
+Bit,The smallest data unit (0 or 1).
+Byte,8 bits; roughly one character.
+ASCII,Code for text files/Internet; defines up to 128 characters.
+Input devices,"Tools that send data to the computer (e.g., keyboard, mouse, OCR, MICR, OMR)."
+Output devices,"Tools that present results (screens, printers, plotters, voice synthesizers)."
+Main memory,Volatile storage lost when power is off.
+Secondary memory,Nonvolatile storage retained without power.
+RAM,Read-write main memory for active data/programs.
+Cache RAM,High-speed memory used to speed up processing.
+ROM,Nonvolatile memory with permanent instructions.
+PROM,Programmable ROM set once after manufacture.
+EPROM,Erasable programmable ROM that can be rewritten.
+SSD,Flash-based secondary storage device.
+NVMe,Interface/protocol optimizing SSD access.
+Cloud storage,Off-premises storage accessible via networks.
+SAN,Dedicated high-speed network managing shared storage devices.
+NAS,Networked computer providing file-based storage services.
+Server,Computer that manages network resources and provides services.
+System software,"Programs that run the computer (e.g., operating systems)."
+Application software,"Programs that perform user tasks (e.g., spreadsheets, CAD)."
+Operating system (OS),Programs that control/manage hardware/software; kernel supervises other programs.
+Machine language,First-gen language of 0s and 1s.
+Assembly language,Mnemonic-based second-gen language.
+High-level languages,"Human-readable languages for general development (e.g., C++, Python, JavaScript)."
+Fourth-generation language (4GL),Uses macro codes to simplify programming.
+Fifth-generation language (5GL),AI-oriented programming technologies.
+Object-oriented programming (OOP),Uses objects/classes enabling modularity and code reuse.
